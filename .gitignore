@@ -1,0 +1,8 @@
+#ignore the environment folder
+.calibration/
+
+#ignore the data folder
+data/
+
+# ignore trained_models
+trained model/
