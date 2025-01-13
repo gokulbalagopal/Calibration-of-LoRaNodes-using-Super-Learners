@@ -1,0 +1,10 @@
+Model,pm1,pm2_5,pm4,pm10,pmTotal,dCn
+Linear_Regression,0.48,0.46,0.6,0.2,0.16,0.43
+Random_Forest_Regression,0.99,0.97,0.99,0.91,0.76,0.99
+XGBoost_Regression,0.97,0.97,0.98,0.89,0.72,0.99
+Decision_Tree_Regression,0.98,0.98,0.98,0.86,0.75,0.99
+LGBM_Regression,0.99,0.96,0.99,0.9,0.72,0.99
+Ensemble_Bagging_Regression,0.99,0.96,0.99,0.91,0.72,0.99
+Neural_Network_Regression,0.96,0.9,0.93,0.66,0.44,0.97
+Ridge_Regression,0.48,0.45,0.61,0.19,0.16,0.43
+KNN_Regression,0.96,0.85,0.93,0.57,0.19,0.94
